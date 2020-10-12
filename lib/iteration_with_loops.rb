@@ -7,7 +7,7 @@ while row_index < src.count do
 
         if src[row_index][element_index].class==String
 
-          arr<< src[row_index][element_index].Join(" ")
+          arr<< src[row_index][element_index]
 
         end
 
