@@ -14,5 +14,6 @@ while row_index < src.count do
   row_index += 1
 end
 arr.join(" ")
+end
 arr
 end
